@@ -1,6 +1,6 @@
 This is an README file for Michal Kuligowski and Daniel Kochan Experimental Project 2024
 
-# EXPERIMENTAL PROJECT 2024 MK vs DK
+# EXPERIMENTAL PROJECT 2024 MK vs DK dusko
 
 Description: <br />
 
