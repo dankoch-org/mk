@@ -3,7 +3,8 @@ This is an README file for Michal Kuligowski and Daniel Kochan Experimental Proj
 # EXPERIMENTAL PROJECT 2024 MK vs DK
 
 Description: <br />
-Both people working in this project will cotribute they exprinece in this experiment creating an board game system thats unique and have a lot of fun to play.
+
+Both people working in this project will cotribute they exprinece in this experiment project of creating an board game system thats unique and have a lot of fun to play.
 
 Vistuals
 
